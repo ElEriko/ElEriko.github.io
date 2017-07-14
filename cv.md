@@ -4,7 +4,7 @@ title: CV
 ---
 
 ## Jan-Erik Hoffmann
-- https://eleriko.github.io/
+- [eleriko.github.io](https://eleriko.github.io/)
 - 123 Fake Street
 - Portland, OR 97213
 - 555-555-5555
